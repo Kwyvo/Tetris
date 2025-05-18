@@ -1,5 +1,5 @@
 To launch the rotation bonus and the AI bonus, please execute the following commands respectively:
 
-	-python main.py --rota
+	python main.py --rota
 
-	-python main.py --ia
+	python main.py --ia
